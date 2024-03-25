@@ -25,4 +25,4 @@ To generate executables for debugging run `make DEBUG=1` or `make DEBUG=1 <targe
 
 ## Some results
 
-![Colliding spheres](collide.gif "Colliding spheres")
+![Colliding spheres](collides.gif "Colliding spheres")
